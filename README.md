@@ -38,7 +38,9 @@ All content generated from this script is attributed to the Department of Foreig
 From the DFAT's webpage all content generated https://www.dfat.gov.au/about-us/about-this-website/copyright
 > "Content from this website should be attributed as Department of Foreign Affairs and Trade website – www.dfat.gov.au"
 
-This script has no intent of misuse of the information. Actually I think is an excellent idea that DFAT offers an LDAP addressbook for all embassies as this information is heavily use for comunication purposes. Browsing/searching on the Web directory is a waste of time to get a contact/phone/email/address/role etc.
+This script has no intent of information misuse.
+
+Actually I think is an excellent idea that DFAT offers an LDAP addressbook for all embassies as this information is heavily use for comunication purposes. Browsing/searching on the Web directory is a waste of time to get a contact/phone/email/address/role etc.
 
 ## ToDo
 
