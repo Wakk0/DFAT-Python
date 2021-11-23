@@ -1,4 +1,4 @@
-# Python DFAT LDAP AddressBook Creator
+# Python DFAT LDAP Address Book Creator
 * (DFAT: Department of Foreign Affairs and Trade)
 * (LDAP: Lightweight Directory Access Protocol)
 
@@ -35,8 +35,8 @@ python scraper.py > my-ldif-file.ldif
 
 All the content generated from this script is attributed to the Department of Foreign Affairs and Trade website - [www.dfat.gov.au](https://www.dfat.gov.au)
 
-> From the DFAT's webpage all content generated 
-> https://www.dfat.gov.au/about-us/about-this-website/copyright
+From the DFAT's webpage all content generated
+https://www.dfat.gov.au/about-us/about-this-website/copyright
 > "Content from this website should be attributed as Department of Foreign Affairs and Trade website – www.dfat.gov.au"
 
 ## ToDo
