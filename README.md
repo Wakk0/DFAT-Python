@@ -31,12 +31,11 @@ ou_path = 'ou=Embassies,ou=AddressBook,dc=domain,dc=com'
 ```bash
 python scraper.py > my-ldif-file.ldif
 ```
-## Comments
+## Copyrights
 
-All the content generated from this script is attributed to the Department of Foreign Affairs and Trade website - [www.dfat.gov.au](https://www.dfat.gov.au)
+All content generated from this script is attributed to the Department of Foreign Affairs and Trade website - [www.dfat.gov.au](https://www.dfat.gov.au)
 
-From the DFAT's webpage all content generated
-https://www.dfat.gov.au/about-us/about-this-website/copyright
+From the DFAT's webpage all content generated https://www.dfat.gov.au/about-us/about-this-website/copyright
 > "Content from this website should be attributed as Department of Foreign Affairs and Trade website – www.dfat.gov.au"
 
 ## ToDo
